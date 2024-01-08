@@ -1,0 +1,13 @@
+0:15 - directed graph
+0:34 - undirected graph
+0:40 - adjacent vertices
+1:03 - degree of a vertex
+2:11 - path bw two vertices
+3:00 - connected vs disconnected graph
+3:45 - connected components
+4:20 - cycles in a graph
+4:51 - cyclic vs acyclic graph
+5:38 - tree
+6:16 - DAG
+6:43 - complete graph
+7:45 - weighted graph
