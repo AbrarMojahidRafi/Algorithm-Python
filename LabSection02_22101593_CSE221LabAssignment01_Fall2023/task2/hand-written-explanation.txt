@@ -1,0 +1,3 @@
+we know that best case means the array is sorted. So if we look for the first time that there is no two element here in the array which is not sorted, means the left element is greater than right element, then we can say that the array is sorted. And for this I create a flag with value 'false', and when the condition(the left element is greater than right element) is true, I changed the value of flag from 'false' to 'true'. 
+
+And after completing the inner loop, I simply check that the flag is true or false. If it is still false, which mean there is no element which is big from its right element, I break the loop. This is how this code exicute for sorted array as a O(n) time. 
